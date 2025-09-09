@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
         type: 'bar',
         plugins: [ChartDataLabels],
         data: {
-            labels: ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio','Julio'],
+            labels: ['Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre',],
             datasets: [{
                 data: [42, 60, 89, 105, 117, 96,212],
                 backgroundColor: '#47D45A',
