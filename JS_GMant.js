@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         data: {
             labels: ['Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre',],
             datasets: [{
-                data: [42, 60, 89, 105, 117, 96,212],
+                data: [212, 150, 0, 0, 0, 0, 0],
                 backgroundColor: '#47D45A',
                 borderColor: '#0E4D4C',
                 borderWidth: 1,
